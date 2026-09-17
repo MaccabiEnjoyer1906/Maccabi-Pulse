@@ -10,32 +10,32 @@ ROOT=Path(__file__).parent
 # (query, language, default kind, is this a Fabrizio-Romano-tracking query)
 QUERIES=[
  # transfers (kept)
- ('מכבי תל אביב כדורגל העברות', 'he', 'transfer', False),
+ ('×××× ×ª× ×××× ××××¨×× ××¢××¨××ª', 'he', 'transfer', False),
  ('Maccabi Tel Aviv FC transfer', 'en', 'transfer', False),
  # general club football news
  ('Maccabi Tel Aviv FC football -basketball -EuroLeague', 'en', 'news', False),
- ('מכבי תל אביב כדורגל', 'he', 'news', False),
+ ('×××× ×ª× ×××× ××××¨××', 'he', 'news', False),
  # matches: previews, recaps, scores
  ('Maccabi Tel Aviv FC match report OR preview OR score', 'en', 'match', False),
- ('מכבי תל אביב משחק תוצאה', 'he', 'match', False),
+ ('×××× ×ª× ×××× ××©××§ ×ª××¦××', 'he', 'match', False),
  # injuries and squad/lineup news
  ('Maccabi Tel Aviv injury lineup squad', 'en', 'injury', False),
- ('מכבי תל אביב פצוע הרכב סגל', 'he', 'injury', False),
+ ('×××× ×ª× ×××× ×¤×¦××¢ ××¨×× ×¡××', 'he', 'injury', False),
  # coach and player interviews
  ('Maccabi Tel Aviv coach interview press conference', 'en', 'interview', False),
- ('מכבי תל אביב ראיון מאמן שחקן', 'he', 'interview', False),
+ ('×××× ×ª× ×××× ×¨×××× ×××× ×©××§×', 'he', 'interview', False),
  # standings and league race
  ('Maccabi Tel Aviv standings league table', 'en', 'standings', False),
- ('מכבי תל אביב טבלת הליגה', 'he', 'standings', False),
+ ('×××× ×ª× ×××× ××××ª ×××××', 'he', 'standings', False),
  # European competition
  ('Maccabi Tel Aviv Conference League Europa League', 'en', 'europe', False),
- ('מכבי תל אביב אירופה קונפרנס ליג', 'he', 'europe', False),
+ ('×××× ×ª× ×××× ×××¨××¤× ×§×× ×¤×¨× ×¡ ×××', 'he', 'europe', False),
  # official club announcements
  ('Maccabi Tel Aviv FC official announcement', 'en', 'news', False),
- ('מכבי תל אביב הודעה רשמית', 'he', 'news', False),
+ ('×××× ×ª× ×××× ××××¢× ×¨×©×××ª', 'he', 'news', False),
  # Fabrizio Romano tracking
  ('"Fabrizio Romano" "Maccabi Tel Aviv"', 'en', 'transfer', True),
- ('"פבריציו רומאנו" "מכבי תל אביב"', 'he', 'transfer', True),
+ ('"×¤××¨××¦×× ×¨×××× ×" "×××× ×ª× ××××"', 'he', 'transfer', True),
 ]
 TRUST={'maccabi-tlv.co.il':('official','Official'),'sports.walla.co.il':('strong','Strong report'),'sport1.maariv.co.il':('strong','Strong report'),'one.co.il':('strong','Strong report'),'ynet.co.il':('strong','Strong report')}
 STALE=timedelta(days=45)
@@ -74,24 +74,24 @@ def display_time(dt,pub):
  return (pub or '')[:16] or 'New'
 
 def is_romano_text(title,desc,source):
- return re.search(r'fabrizio\s+romano|פבריציו\s+רומאנו',(title+' '+desc+' '+source).lower()) is not None
+ return re.search(r'fabrizio\s+romano|×¤××¨××¦××\s+×¨×××× ×',(title+' '+desc+' '+source).lower()) is not None
 
 def football_relevant(title, desc, source):
  alltext=(title+' '+desc+' '+source).lower()
  text=(title+' '+desc).lower()
- blocked=['basketball','euroleague','euro league','eurocup','nba','hoops','basketnews','roundball','volleyball','handball','u19','u21','under-19','under-21','יורוליג','יורוקאפ','כדורסל','כדורעף','כדוריד','נוער']
+ blocked=['basketball','euroleague','euro league','eurocup','nba','hoops','basketnews','roundball','volleyball','handball','u19','u21','under-19','under-21','×××¨××××','×××¨××§××¤','××××¨×¡×','××××¨×¢×£','××××¨××','× ××¢×¨']
  if any(x in alltext for x in blocked): return False
  # other Maccabi clubs are fine only when the story is actually about Maccabi Tel Aviv (e.g. a head-to-head match)
- other_clubs=['maccabi haifa','maccabi netanya','maccabi petah','maccabi bnei','bnei reineh','maccabi herzliya','maccabi jaffa','maccabi kabilio','מכבי חיפה','מכבי נתניה','מכבי פתח','מכבי בני','מכבי הרצליה','מכבי יפו']
- if any(x in alltext for x in other_clubs) and not re.search(r'maccabi tel.?aviv|מכבי תל אביב',text): return False
+ other_clubs=['maccabi haifa','maccabi netanya','maccabi petah','maccabi bnei','bnei reineh','maccabi herzliya','maccabi jaffa','maccabi kabilio','×××× ×××¤×','×××× × ×ª× ××','×××× ×¤×ª×','×××× ×× ×','×××× ××¨×¦×××','×××× ××¤×']
+ if any(x in alltext for x in other_clubs) and not re.search(r'maccabi tel.?aviv|×××× ×ª× ××××',text): return False
  # require the club or clear football terms in the story itself, not just the outlet name
- signals=['maccabi tel aviv','maccabi tel-aviv','מכבי תל אביב']
+ signals=['maccabi tel aviv','maccabi tel-aviv','×××× ×ª× ××××']
  if any(x in text for x in signals): return True
  # the club's own site is authoritative even when the headline does not repeat the club name
- if 'maccabi tel aviv' in source.lower() or 'מכבי תל אביב' in source: return True
+ if 'maccabi tel aviv' in source.lower() or '×××× ×ª× ××××' in source: return True
  # trusted Israeli outlets use bare 'Maccabi' for Maccabi Tel Aviv in football coverage
  trusted=['walla','sport1','sport5','one.co','ynet','jpost','jerusalem post','maariv','keshet','13tv','kan ']
- if any(t in source.lower() for t in trusted) and re.search(r'\bmaccabi\b|מכבי',text): return True
+ if any(t in source.lower() for t in trusted) and re.search(r'\bmaccabi\b|××××',text): return True
  return False
 
 def classify(title, desc, default):
@@ -120,7 +120,8 @@ def main():
    title=clean(it.findtext('title'));link=clean(it.findtext('link'));desc=clean(it.findtext('description'));pub=clean(it.findtext('pubDate'));source=clean(it.findtext('source')) or 'Google News source'
    if not football_relevant(title,desc,source): continue
    dt=parse_dt(pub)
-   if dt and dt < now-STALE: continue
+   # Reject missing, malformed, stale, or implausibly future dates. Unsafe dates cannot float upward.
+   if not dt or dt < now-STALE or dt > now+timedelta(hours=12): continue
    key=re.sub(r'\W+','',title.lower())[:120]
    if not title or key in seen:continue
    seen.add(key); en_title,tr1=translate(title,lang);en_desc,tr2=translate(desc,lang)
@@ -134,7 +135,7 @@ def main():
    romano=romano_q or is_romano_text(title,desc,source)
    if romano and level!='official':level,label='strong','Romano report'
    if level=='official':why='Club announcement.'
-   elif romano:why='Linked to Fabrizio Romano’s reporting; credible, but not confirmed by the club.'
+   elif romano:why='Linked to Fabrizio Romanoâs reporting; credible, but not confirmed by the club.'
    elif level=='strong':why='Established outlet; still unconfirmed by the club.'
    else:why='Single-source signal; treat as unconfirmed until corroborated.'
    story={'id':key,'kind':story_kind,'level':level,'label':label,'source':source,'translated':tr1 or tr2,'time':display_time(dt,pub),'title':en_title,'body':en_desc[:320] or 'Open the original report for details.','why':'Why this label: '+why,'url':link}
@@ -145,7 +146,8 @@ def main():
  for x in old.get('stories',[]):
   if not football_relevant(x.get('title',''),x.get('body',''),x.get('source','')): continue
   dt=story_dt(x)
-  if dt and dt < now-STALE: continue
+  # Retire legacy items with missing or malformed dates rather than retaining them forever.
+  if not dt or dt < now-STALE or dt > now+timedelta(hours=12): continue
   # Translate or drop saved stories that still carry untranslated Hebrew.
   if HEBREW.search(x.get('title','')+' '+x.get('body','')):
    t1,_=translate(x.get('title',''),'he');t2,_=translate(x.get('body',''),'he')
@@ -159,8 +161,8 @@ def main():
   key=re.sub(r'\W+','',x.get('title','').lower())[:120]
   if key not in seen:
    x['id']=key;out.append(x);seen.add(key)
- # newest first, older below; stories without a parseable date sink to the bottom
- out.sort(key=lambda s:(story_dt(s) or datetime(1970,1,1,tzinfo=timezone.utc)).timestamp(),reverse=True)
+ # Newest first everywhere. Invalid dates are excluded; id makes equal timestamps deterministic.
+ out.sort(key=lambda s:(-story_dt(s).timestamp(),s.get('id','')))
  payload={'updated_at':now.isoformat(),'stories':out[:50]}
  (ROOT/'data.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n')
  print('wrote',len(payload['stories']),'stories')
@@ -169,3 +171,4 @@ if __name__=='__main__':
  main()
  d=json.loads((ROOT/'data.json').read_text())
  print(Counter(s['kind'] for s in d['stories']))
+
