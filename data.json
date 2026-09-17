@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T02:31:16.503347+00:00",
+  "updated_at": "2026-09-17T02:56:51.508179+00:00",
   "stories": [
     {
       "id": "maccabitelavivemergeasearlyisraelipremierleaguefrontrunnersthejerusalempost",
@@ -16,6 +16,19 @@
       "ts": "2026-09-16T00:00:00+00:00"
     },
     {
+      "id": "oriazojoinsbeitarjerusalemonloan",
+      "kind": "official",
+      "level": "official",
+      "label": "Official",
+      "source": "Maccabi Tel Aviv FC",
+      "time": "Sep 14",
+      "title": "Ori Azo joins Beitar Jerusalem on loan",
+      "body": "The club confirmed the 21-year-old winger will spend the 2026/27 season at Beitar Jerusalem.",
+      "why": "Why this label: published directly by Maccabi Tel Aviv FC.",
+      "url": "https://www.maccabi-tlv.co.il/en/2026/09/azo-joins-beitar-jerusalem-on-loan/",
+      "ts": "2026-09-14T00:00:00+00:00"
+    },
+    {
       "id": "telavivderbyinpremierleaguemaccabitelavivdefeatshapoeltelaviv41ynetnews",
       "kind": "match",
       "level": "early",
@@ -27,19 +40,6 @@
       "body": "Tel Aviv Derby in Premier League: Maccabi Tel Aviv Defeats Hapoel Tel Aviv 4-1 &nbsp;&nbsp; Ynetnews",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zMmhRbDgtM3BscTZheFpfZWM5MWZmWkI2WEJuWl9ZXzFVLXU0MHkycDI0SmRDYW1LcDdfQW5zOFE3UzR6QWpfSnh3ZUxXclJhZUpqUw?oc=5",
-      "ts": "2026-09-14T00:00:00+00:00"
-    },
-    {
-      "id": "oriazojoinsbeitarjerusalemonloan",
-      "kind": "official",
-      "level": "official",
-      "label": "Official",
-      "source": "Maccabi Tel Aviv FC",
-      "time": "Sep 14",
-      "title": "Ori Azo joins Beitar Jerusalem on loan",
-      "body": "The club confirmed the 21-year-old winger will spend the 2026/27 season at Beitar Jerusalem.",
-      "why": "Why this label: published directly by Maccabi Tel Aviv FC.",
-      "url": "https://www.maccabi-tlv.co.il/en/2026/09/azo-joins-beitar-jerusalem-on-loan/",
       "ts": "2026-09-14T00:00:00+00:00"
     },
     {
@@ -195,6 +195,21 @@
       "ts": "2026-09-03T11:19:57+00:00"
     },
     {
+      "id": "jamestavernieragreesshockmaccabitelavivtransferasdefenderreuniteswithexrangersteammatedailyrecord",
+      "kind": "transfer",
+      "level": "strong",
+      "label": "Romano report",
+      "source": "Daily Record",
+      "translated": false,
+      "time": "Sep 1",
+      "title": "James Tavernier 'agrees' shock Maccabi Tel Aviv transfer as defender reunites with ex Rangers teammate - Daily Record",
+      "body": "James Tavernier 'agrees' shock Maccabi Tel Aviv transfer as defender reunites with ex Rangers teammate &nbsp;&nbsp; Daily Record",
+      "why": "Why this label: Linked to Fabrizio Romanoâs reporting; credible, but not confirmed by the club.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFfWFB3REVnRHVpMldwSlM4SGJ4RW42MVJDamMwMmRBU3p2cXlqWWRDSTVIcms2OG5GcktBLUdMdFBkVkVoSGoxclA1SFNVZEttTm0yRU5wMkkxXzdJNUVYRzE5QWUyQlJEWGhfcVV4SXFhbzBDdFFZLTlNRjRhQkNrSkpLWlZSbzFpcjZ5SUlZeEx3NWc1Rk5ac2FYZ08ycFFhd0E4dFFneUdvc21EMFJudEpjcVHSAbwBQVVfeXFMTm1OaWJINW9uYlpYNHV4aW8xckUxanliSGdNN016Y1Q5UXNVVnJaRXNSZjRVRS16WWFhLVZoODFQVXE1TFRQYjhPZmlLbzB0V0s4SmN5aE1ZeTAzbFVmVTlxeWNRT1dVSEQyQ0VVdWpGVVlSQUE4MWVaT19yUE1nNC1JN0gwaGxabXFVUlAyamJyNWVPaGZmRVBDcUt4N2tieTMwVHRCVWIwLXBDVk1VdFRmUWVHNHdKTmdLQmQ?oc=5",
+      "ts": "2026-09-01T07:00:00+00:00",
+      "romano": true
+    },
+    {
       "id": "millermakesmaccabitelavivtransferadmissionovermoveforrangersherotavernierinkl",
       "kind": "transfer",
       "level": "early",
@@ -207,21 +222,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkk0ODhoeUF1MXdqc0RldUZfWGdmbVEwNWN0VmlVNlRTODJuTWRva3dkT0w4MjZNWXNqNVBCVDVtSS1USkU5OUxKSkp6R0F6Q2hZVV9kd2hfWlZ3d3gzSUpTWlJSTUx6UDVEOEZHSlZucnZya28zSVhlMVQ4V1pnLU8wWTNiaUR6dEt3Q2FLLXlqV3d4RERkRW5HRVpvTjRVLWdSU2pqM2NJWEdlX3ZOMA?oc=5",
       "ts": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "id": "jamestavernieragreesshockmaccabitelavivtransferasdefenderreuniteswithexrangersteammatedailyrecord",
-      "kind": "transfer",
-      "level": "strong",
-      "label": "Romano report",
-      "source": "Daily Record",
-      "translated": false,
-      "time": "Sep 1",
-      "title": "James Tavernier 'agrees' shock Maccabi Tel Aviv transfer as defender reunites with ex Rangers teammate - Daily Record",
-      "body": "James Tavernier 'agrees' shock Maccabi Tel Aviv transfer as defender reunites with ex Rangers teammate &nbsp;&nbsp; Daily Record",
-      "why": "Why this label: Linked to Fabrizio Romano’s reporting; credible, but not confirmed by the club.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXFfWFB3REVnRHVpMldwSlM4SGJ4RW42MVJDamMwMmRBU3p2cXlqWWRDSTVIcms2OG5GcktBLUdMdFBkVkVoSGoxclA1SFNVZEttTm0yRU5wMkkxXzdJNUVYRzE5QWUyQlJEWGhfcVV4SXFhbzBDdFFZLTlNRjRhQkNrSkpLWlZSbzFpcjZ5SUlZeEx3NWc1Rk5ac2FYZ08ycFFhd0E4dFFneUdvc21EMFJudEpjcVHSAbwBQVVfeXFMTm1OaWJINW9uYlpYNHV4aW8xckUxanliSGdNN016Y1Q5UXNVVnJaRXNSZjRVRS16WWFhLVZoODFQVXE1TFRQYjhPZmlLbzB0V0s4SmN5aE1ZeTAzbFVmVTlxeWNRT1dVSEQyQ0VVdWpGVVlSQUE4MWVaT19yUE1nNC1JN0gwaGxabXFVUlAyamJyNWVPaGZmRVBDcUt4N2tieTMwVHRCVWIwLXBDVk1VdFRmUWVHNHdKTmdLQmQ?oc=5",
-      "ts": "2026-09-01T07:00:00+00:00",
-      "romano": true
     },
     {
       "id": "millermakesmaccabitelavivtransferadmissionovermoveforrangersherotavernierinklcom",
@@ -294,20 +294,6 @@
       "ts": "2026-08-27T07:00:00+00:00"
     },
     {
-      "id": "maccabitelavivvsluganouefaconferenceleaguestatsheadtoheadbbc",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "BBC",
-      "translated": false,
-      "time": "Aug 27",
-      "title": "Maccabi Tel Aviv vs Lugano: UEFA Conference League stats & head-to-head - BBC",
-      "body": "Maccabi Tel Aviv vs Lugano: UEFA Conference League stats & head-to-head &nbsp;&nbsp; BBC",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TblYyZmEtelF2Y1JnTG1HSDdTeUVGNHdZaXh6b1FNYVR4UDhMTUpDenk0WExNZTFjVVVmVEpKdGNVeXpzWGxyT0JTbUZYUDFvaG1tMV94QTN3c2U4LXB0ZnR5d083UQ?oc=5",
-      "ts": "2026-08-27T07:00:00+00:00"
-    },
-    {
       "id": "maccabitelavivvsluganopredictionspicksodds27082026toffeeweb",
       "kind": "match",
       "level": "early",
@@ -319,6 +305,20 @@
       "body": "Maccabi Tel Aviv vs Lugano Predictions, Picks & Odds – 27/08/2026 &nbsp;&nbsp; ToffeeWeb",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkgzWlB6RlA2cDk0b0dHSVh0c1RmZ09OVXk2ZC1yeHQ3MjBFQ2M4VW80TzF0MXpLWHJpLVRhelh5eWZEUVVjd25nTWdPdFkwanRzYVpCU01FMUhNQzV2SmN2MTJ2R1RPd2wzZEdZbXM0MkZsemY5dXN1bE92V3Y1NnUtM0ZjUi04Yk9vMHJPdC1SZ2lVLVE?oc=5",
+      "ts": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "id": "maccabitelavivvsluganouefaconferenceleaguestatsheadtoheadbbc",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "BBC",
+      "translated": false,
+      "time": "Aug 27",
+      "title": "Maccabi Tel Aviv vs Lugano: UEFA Conference League stats & head-to-head - BBC",
+      "body": "Maccabi Tel Aviv vs Lugano: UEFA Conference League stats & head-to-head &nbsp;&nbsp; BBC",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TblYyZmEtelF2Y1JnTG1HSDdTeUVGNHdZaXh6b1FNYVR4UDhMTUpDenk0WExNZTFjVVVmVEpKdGNVeXpzWGxyT0JTbUZYUDFvaG1tMV94QTN3c2U4LXB0ZnR5d083UQ?oc=5",
       "ts": "2026-08-27T07:00:00+00:00"
     },
     {
@@ -336,20 +336,6 @@
       "ts": "2026-08-27T02:51:38+00:00"
     },
     {
-      "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamethejerusalempost",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "The Jerusalem Post",
-      "translated": false,
-      "time": "Aug 26",
-      "title": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game - The Jerusalem Post",
-      "body": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game &nbsp;&nbsp; The Jerusalem Post",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT3dIT3RCN182Um15XzdJdUsteEdCb1M4ZzEwMmNYZTRNOGJ0OTBfM0M5dy1mdHFjU0FMQmhkZEFuc25XRGx2WmFiNmNvZERYSklhNHJIejd6RE1HYVZLX05jNl9SNXVvMXc?oc=5",
-      "ts": "2026-08-26T07:00:00+00:00"
-    },
-    {
       "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamejpostcom",
       "kind": "match",
       "level": "early",
@@ -359,6 +345,20 @@
       "time": "Aug 26",
       "title": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game - jpost.com",
       "body": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game &nbsp;&nbsp; jpost.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT3dIT3RCN182Um15XzdJdUsteEdCb1M4ZzEwMmNYZTRNOGJ0OTBfM0M5dy1mdHFjU0FMQmhkZEFuc25XRGx2WmFiNmNvZERYSklhNHJIejd6RE1HYVZLX05jNl9SNXVvMXc?oc=5",
+      "ts": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamethejerusalempost",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "The Jerusalem Post",
+      "translated": false,
+      "time": "Aug 26",
+      "title": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game - The Jerusalem Post",
+      "body": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game &nbsp;&nbsp; The Jerusalem Post",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT3dIT3RCN182Um15XzdJdUsteEdCb1M4ZzEwMmNYZTRNOGJ0OTBfM0M5dy1mdHFjU0FMQmhkZEFuc25XRGx2WmFiNmNvZERYSklhNHJIejd6RE1HYVZLX05jNl9SNXVvMXc?oc=5",
       "ts": "2026-08-26T07:00:00+00:00"
@@ -392,20 +392,6 @@
       "ts": "2026-08-14T03:54:46+00:00"
     },
     {
-      "id": "cskasofiavsmaccabitelavivlivescorepredictedlineupsandh2hstatsfotmob",
-      "kind": "squad",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "FotMob",
-      "translated": false,
-      "time": "Aug 13",
-      "title": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats - FotMob",
-      "body": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats &nbsp;&nbsp; FotMob",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLQ2ZyaWdnNGJRcGJTaERoeGJ2dHlwU2k5TmdKcDI0MC00a0c0cnpfTlR2Z2toOEQzZ3VNMjdMVldERktHam54WkJfSmo5RXJLQWd5OWpkSnMtWlFKb0JTUFlGcURwRlZMdG03UzZzcHdtdHV6cnFV?oc=5",
-      "ts": "2026-08-13T07:00:00+00:00"
-    },
-    {
       "id": "beitareliminatedfromeuropeonpenaltiesmaccabitelavivwonyetwasknockedoutynetnews",
       "kind": "match",
       "level": "early",
@@ -417,6 +403,20 @@
       "body": "Beitar eliminated from Europe on penalties, Maccabi Tel Aviv won - yet was knocked out &nbsp;&nbsp; Ynetnews",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR2xiaGh3OW5pdUZxenZTMUExWXR0X1F3QmhTWmhDTkhfNkJoMmhOQzBDbHRhR3dSRmNJZ1l5U1NNc1lqLWx0cnVuUUxzNnNKcXNsWQ?oc=5",
+      "ts": "2026-08-13T07:00:00+00:00"
+    },
+    {
+      "id": "cskasofiavsmaccabitelavivlivescorepredictedlineupsandh2hstatsfotmob",
+      "kind": "squad",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "FotMob",
+      "translated": false,
+      "time": "Aug 13",
+      "title": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats - FotMob",
+      "body": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats &nbsp;&nbsp; FotMob",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLQ2ZyaWdnNGJRcGJTaERoeGJ2dHlwU2k5TmdKcDI0MC00a0c0cnpfTlR2Z2toOEQzZ3VNMjdMVldERktHam54WkJfSmo5RXJLQWd5OWpkSnMtWlFKb0JTUFlGcURwRlZMdG03UzZzcHdtdHV6cnFV?oc=5",
       "ts": "2026-08-13T07:00:00+00:00"
     },
     {
@@ -446,6 +446,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkFfcDVtSlFzOWY3NThjQ0d3TnBCSXJrQ3hidDVWcFpyeFZIWDFRYzB4TUozd2VMYU5IV1plZ18xVzNSbGtrSkZTSmNpZkdlVUV4Q3ZuREhBVFo1Z2EtVkM5SUV0ZkRLVFVtN2s0enozMU9POUFLSW9PREprTFpfYk1SNlNXLXpY?oc=5",
       "ts": "2026-08-11T07:00:00+00:00"
+    },
+    {
+      "id": "clubstatementmaccabitelavivfootballclubmaccabitlvcoil",
+      "kind": "official",
+      "level": "official",
+      "label": "Official",
+      "source": "maccabi-tlv.co.il",
+      "translated": false,
+      "time": "Aug 3",
+      "title": "Club Statement - Maccabi Tel Aviv Football Club - maccabi-tlv.co.il",
+      "body": "Club Statement - Maccabi Tel Aviv Football Club &nbsp;&nbsp; maccabi-tlv.co.il",
+      "why": "Why this label: Club announcement.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ROGYyWHlJYkw0VW5ZLTBtS1o5TU1GMzNQY01iSkJLcFQydkhJa1ZaaW9XNUcyZkdzM1hwQVlBd1dJSWlSUFBnNTd4Rjd0dTFBTUIyNnNPaDc1aDRKQkhrRGdveXNnUFJfVms4?oc=5",
+      "ts": "2026-08-03T07:00:00+00:00"
     }
   ]
 }
