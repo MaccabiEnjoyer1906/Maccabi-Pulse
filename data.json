@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T22:27:42.384749+00:00",
+  "updated_at": "2026-09-17T22:54:33.417309+00:00",
   "stories": [
     {
       "id": "maccabitelavivemergeasearlyisraelipremierleaguefrontrunnersthejerusalempost",
@@ -475,6 +475,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRRFUwV1RFeHQ1b013TlRXZ21fLWJvelJndVpjV3NYNnNweTQ0Z2xSUHJWMmRTMmpzNkxMOEgwRHdvcExPeS1yeUZZY2hic2VTRjc2WnEyajhPbWJYNUphTUdkeUR1QQ?oc=5",
       "ts": "2026-08-20T07:00:00+00:00"
+    },
+    {
+      "id": "maccabitelaviv11fclugano28aug2026finalscoreespnphilippines",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "ESPN Philippines",
+      "translated": false,
+      "time": "Aug 15",
+      "title": "Maccabi Tel-Aviv 1-1 FC Lugano (28 Aug, 2026) Final Score - ESPN Philippines",
+      "body": "Maccabi Tel-Aviv 1-1 FC Lugano (28 Aug, 2026) Final Score &nbsp;&nbsp; ESPN Philippines",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkY3OTgwOWd3UFJSLU45Xzl6MUczVXJ5alVZdlVPVlROLWotS19aenR0V2FFSTlXVHZmRVhHMXlnSnE3TTlpOW9KbExNRmxFVVhvUUV5Mi1JLVN5aXFkdDVvazdpMUtTX0I1M3c3cFBLRHd5M3RkXzNnbW8xbzJxcnNId2Y0QjQ?oc=5",
+      "ts": "2026-08-15T08:20:20+00:00"
     },
     {
       "id": "fclugano21maccabitelavivaug202026finalscoreespn",
