@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T01:50:35.919807+00:00",
+  "updated_at": "2026-09-17T01:57:15.365231+00:00",
   "stories": [
     {
       "id": "maccabitelavivemergeasearlyisraelipremierleaguefrontrunnersthejerusalempost",
@@ -334,6 +334,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU29ZUFFRZkxVY3lOMklaTG4tSGtCTVJ2bFZfd290bDU2a2JsaWdRWjA5V0kzUmIwNVI5R0tsNmcwRkxtQ1BVUWc0aWlQdXA0NFl3U3N5RVNoYVh0TFZYM09adVdTZjVJSUE5Vk5WUDMzME1tYWg4ZHdYXzNjNWZyM0VVVDFlY3ZYNURQNHdoSjVxWkxubHEycFZDclZVX2hEVnc?oc=5",
       "ts": "2026-08-27T02:51:38+00:00"
+    },
+    {
+      "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamejpostcom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "jpost.com",
+      "translated": false,
+      "time": "Aug 26",
+      "title": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game - jpost.com",
+      "body": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game &nbsp;&nbsp; jpost.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT3dIT3RCN182Um15XzdJdUsteEdCb1M4ZzEwMmNYZTRNOGJ0OTBfM0M5dy1mdHFjU0FMQmhkZEFuc25XRGx2WmFiNmNvZERYSklhNHJIejd6RE1HYVZLX05jNl9SNXVvMXc?oc=5",
+      "ts": "2026-08-26T07:00:00+00:00"
     },
     {
       "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamethejerusalempost",
