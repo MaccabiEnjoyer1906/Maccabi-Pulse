@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T00:36:15.343265+00:00",
+  "updated_at": "2026-09-19T00:56:24.666181+00:00",
   "stories": [
     {
       "id": "maccabitelavivemergeasearlyisraelipremierleaguefrontrunnersthejerusalempost",
@@ -519,6 +519,20 @@
       "ts": "2026-08-26T07:00:00+00:00"
     },
     {
+      "id": "lugano21maccabitelavivgrgićspenaltysettlesplayofftiesofascore",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Sofascore",
+      "translated": false,
+      "time": "Aug 20",
+      "title": "Lugano 2-1 Maccabi Tel Aviv: Grgić’s penalty settles playoff tie - Sofascore",
+      "body": "Lugano 2-1 Maccabi Tel Aviv: Grgić’s penalty settles playoff tie &nbsp;&nbsp; Sofascore",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNldwaW8wN1dZVmhoU0xTd2dfb0l2NHJteENHOEtXMDRMMkFwUXNmWHhLOG1ZRjUybkUwYm9ZX0FQeDFRaVRGOEhJUzJmZnFOd0ZlT1NqR0JsLUNrRmViLW5HTE5ORWhsd3dobmhhQURYTEI0WUhWc2dRVk0xVlhUYzhrR0w1VGRsaVUyV0dnMjIyZGVuMUtibQ?oc=5",
+      "ts": "2026-08-20T07:00:00+00:00"
+    },
+    {
       "id": "luganovsmaccabitelavivuefaconferenceleaguestatsheadtoheadbbc",
       "kind": "match",
       "level": "early",
@@ -682,20 +696,6 @@
       "time": "Aug 12",
       "title": "Hapoel Jerusalem FC vs. Maccabi Tel-Aviv - Live Score - August 23, 2026 - FOX Sports",
       "body": "Hapoel Jerusalem FC vs. Maccabi Tel-Aviv - Live Score - August 23, 2026 &nbsp;&nbsp; FOX Sports",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXhkczdWcnRmV1VRcXlDTlE3STFkZS1vTVhHWmloRGNJSERualpnWUtJYTJMWnZBSEFrUHlWYjYxRWNCWkkyZk9VV2pvZWxsQU5MbklvSFpLY3Vfd1FXOGo5UkVVQ0tVVjVlX194UFpYYWpLVlY4Tl9fWW5rYVliTl91WGFKUXhYcDBNYlJNdnAzN0owQk9pUDdDMk1Dd3BHazNtMzlQOUtEVm1scUhhMXpzMTZia0UzckhJb1NvOA?oc=5",
-      "ts": "2026-08-12T22:14:14+00:00"
-    },
-    {
-      "id": "hapoeljerusalemfcvsmaccabitelavivlivescoreaugust232026foxsportscom",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "foxsports.com",
-      "translated": false,
-      "time": "Aug 12",
-      "title": "Hapoel Jerusalem FC vs. Maccabi Tel-Aviv - Live Score - August 23, 2026 - foxsports.com",
-      "body": "Hapoel Jerusalem FC vs. Maccabi Tel-Aviv - Live Score - August 23, 2026 &nbsp;&nbsp; foxsports.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXhkczdWcnRmV1VRcXlDTlE3STFkZS1vTVhHWmloRGNJSERualpnWUtJYTJMWnZBSEFrUHlWYjYxRWNCWkkyZk9VV2pvZWxsQU5MbklvSFpLY3Vfd1FXOGo5UkVVQ0tVVjVlX194UFpYYWpLVlY4Tl9fWW5rYVliTl91WGFKUXhYcDBNYlJNdnAzN0owQk9pUDdDMk1Dd3BHazNtMzlQOUtEVm1scUhhMXpzMTZia0UzckhJb1NvOA?oc=5",
       "ts": "2026-08-12T22:14:14+00:00"
