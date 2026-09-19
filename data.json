@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-19T11:54:32.017883+00:00",
+  "updated_at": "2026-09-19T12:33:59.588344+00:00",
   "stories": [
+    {
+      "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Flashscore.com",
+      "translated": false,
+      "time": "Sep 17",
+      "title": "Maccabi Tel Aviv - Hapoel Tel Aviv 101-83 - Flashscore.com",
+      "body": "Maccabi Tel Aviv - Hapoel Tel Aviv 101-83 &nbsp;&nbsp; Flashscore.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSllhNndaMUxDa3NqdzBQdnlSRzVaRzV6ZUlqQmIxcEZaVjVsNEtNenYtYXc3QjViSW1tdEdEX1JHVnpncnYyVEROSDgtaGpSdTZGbU8wWXhtS2JjZkR6VlFrR24wRGxxM2lFZGhaU041UjgxS3RaMWE5dUI1X0pKQ0NjSk1LNENuTXgzT1c1NkpUSEFnbm5CcUJzZw?oc=5",
+      "ts": "2026-09-17T07:00:00+00:00"
+    },
     {
       "id": "maccabitelavivemergeasearlyisraelipremierleaguefrontrunnersthejerusalempost",
       "kind": "news",
@@ -307,6 +321,21 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
       "ts": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "id": "jamestavernierclosetomaccabitelavivtransferafterrangersexitrangersreviewtherangersreview",
+      "kind": "transfer",
+      "level": "strong",
+      "label": "Romano report",
+      "source": "The Rangers Review",
+      "translated": false,
+      "time": "Aug 31",
+      "title": "James Tavernier close to Maccabi Tel Aviv transfer after Rangers exit | Rangers Review - The Rangers Review",
+      "body": "James Tavernier close to Maccabi Tel Aviv transfer after Rangers exit | Rangers Review &nbsp;&nbsp; The Rangers Review",
+      "why": "Why this label: Linked to Fabrizio Romanoâs reporting; credible, but not confirmed by the club.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
+      "ts": "2026-08-31T07:00:00+00:00",
+      "romano": true
     },
     {
       "id": "fcluganomaccabitelavivrelatedvideoslivefootballupdatestntsports",
@@ -670,34 +699,6 @@
       "body": "CSKA Sofia vs Maccabi Tel Aviv Box Score - August 13, 2026 - The Athletic &nbsp;&nbsp; The New York Times",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmVYOWtGQk5QNmVyQnEyUDlhOXk0VkpEOWZ2V0hpZzIwVEstTDVQN3ltUmJtRGNoQ1VWTXpoMU5YQlRSSF8xSlZjRzNQOUxLZTNkcTl1Vl9jdzBESVA0c3QzUVVpR2lyU3l3V0t5M21HckIxNGZUZklOVEdfMGZ5N2pna1lPdmEwMVc2WElhdGlEMzlTWlRRRHpxSQ?oc=5",
-      "ts": "2026-08-13T07:00:00+00:00"
-    },
-    {
-      "id": "cskasofiavsmaccabitelavivlivescorepredictedlineupsandh2hstatsfotmob",
-      "kind": "squad",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "FotMob",
-      "translated": false,
-      "time": "Aug 13",
-      "title": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats - FotMob",
-      "body": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats &nbsp;&nbsp; FotMob",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLQ2ZyaWdnNGJRcGJTaERoeGJ2dHlwU2k5TmdKcDI0MC00a0c0cnpfTlR2Z2toOEQzZ3VNMjdMVldERktHam54WkJfSmo5RXJLQWd5OWpkSnMtWlFKb0JTUFlGcURwRlZMdG03UzZzcHdtdHV6cnFV?oc=5",
-      "ts": "2026-08-13T07:00:00+00:00"
-    },
-    {
-      "id": "cskasofiavsmaccabitelavivlivescorepredictedlineupsandh2hstatsfotmobcom",
-      "kind": "squad",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "fotmob.com",
-      "translated": false,
-      "time": "Aug 13",
-      "title": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats - fotmob.com",
-      "body": "CSKA Sofia vs Maccabi Tel Aviv - live score, predicted lineups and H2H stats &nbsp;&nbsp; fotmob.com",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLQ2ZyaWdnNGJRcGJTaERoeGJ2dHlwU2k5TmdKcDI0MC00a0c0cnpfTlR2Z2toOEQzZ3VNMjdMVldERktHam54WkJfSmo5RXJLQWd5OWpkSnMtWlFKb0JTUFlGcURwRlZMdG03UzZzcHdtdHV6cnFV?oc=5",
       "ts": "2026-08-13T07:00:00+00:00"
     }
   ]
