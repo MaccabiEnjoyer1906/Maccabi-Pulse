@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:28:21.475363+00:00",
+  "updated_at": "2026-09-19T22:55:22.650407+00:00",
   "stories": [
     {
       "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
@@ -325,16 +325,17 @@
     {
       "id": "jamestavernierclosesinonmaccabitelavivtransferafterrangersexitrangersreviewcouk",
       "kind": "transfer",
-      "level": "early",
-      "label": "Early rumor",
+      "level": "strong",
+      "label": "Romano report",
       "source": "rangersreview.co.uk",
       "translated": false,
       "time": "Aug 31",
       "title": "James Tavernier closes in on Maccabi Tel Aviv transfer after Rangers exit - rangersreview.co.uk",
       "body": "James Tavernier closes in on Maccabi Tel Aviv transfer after Rangers exit &nbsp;&nbsp; rangersreview.co.uk",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "why": "Why this label: Linked to Fabrizio Romanoâs reporting; credible, but not confirmed by the club.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
-      "ts": "2026-08-31T07:00:00+00:00"
+      "ts": "2026-08-31T07:00:00+00:00",
+      "romano": true
     },
     {
       "id": "jamestavernierclosesinonmaccabitelavivtransferafterrangersexittherangersreview",
