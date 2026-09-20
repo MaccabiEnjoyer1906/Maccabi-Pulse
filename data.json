@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T14:28:49.490071+00:00",
+  "updated_at": "2026-09-20T14:54:35.795360+00:00",
   "stories": [
     {
       "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
@@ -335,6 +335,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkk0ODhoeUF1MXdqc0RldUZfWGdmbVEwNWN0VmlVNlRTODJuTWRva3dkT0w4MjZNWXNqNVBCVDVtSS1USkU5OUxKSkp6R0F6Q2hZVV9kd2hfWlZ3d3gzSUpTWlJSTUx6UDVEOEZHSlZucnZya28zSVhlMVQ4V1pnLU8wWTNiaUR6dEt3Q2FLLXlqV3d4RERkRW5HRVpvTjRVLWdSU2pqM2NJWEdlX3ZOMA?oc=5",
       "ts": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "id": "maccabibeathaifa31maccabitelavivfootballclubmaccabitlvcoil",
+      "kind": "official",
+      "level": "official",
+      "label": "Official",
+      "source": "maccabi-tlv.co.il",
+      "translated": false,
+      "time": "Aug 31",
+      "title": "Maccabi beat Haifa 3-1 - Maccabi Tel Aviv Football Club - maccabi-tlv.co.il",
+      "body": "Maccabi beat Haifa 3-1 - Maccabi Tel Aviv Football Club &nbsp;&nbsp; maccabi-tlv.co.il",
+      "why": "Why this label: Club announcement.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oMGVyZUNxNzNpVm5NMzRWMzlaVEpnMDhwVDhtUVcyVnJmUTlEN2dxb2xMYnU1blFsUFpaU0FUY1ZETnJLOUE3VFNic2ZfZU5JcFRDN0lsbzZzeDNudXNXRy1zUWdEUUNMNU5ONGo2aXFvODZF?oc=5",
+      "ts": "2026-08-31T20:19:08+00:00"
     },
     {
       "id": "backhometonightwatchmaccabitelavivfootballclubmaccabitlvcoil",
@@ -686,20 +700,6 @@
       "why": "Why this label: Club announcement.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjhvWFI3UVFHS2p3ZTNNM1JPSExvVnhZc0pBc29PVVF2RkRXSFp4aktlS2dLdTRZamptc0V4Y2piMWJFTEtoaWEzRGhhdElVUy1iSTVwVkFWVld6LS1tajdSN25nQ0NvQkhreGZxRjFSYkZESWwzNFZicDhyenBrUXp1NUN2MEFMU0lteEpycU4?oc=5",
       "ts": "2026-08-19T07:10:33+00:00"
-    },
-    {
-      "id": "maccabitelaviv11fclugano28aug2026finalscoreespnphilippines",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "ESPN Philippines",
-      "translated": false,
-      "time": "Aug 15",
-      "title": "Maccabi Tel-Aviv 1-1 FC Lugano (28 Aug, 2026) Final Score - ESPN Philippines",
-      "body": "Maccabi Tel-Aviv 1-1 FC Lugano (28 Aug, 2026) Final Score &nbsp;&nbsp; ESPN Philippines",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkY3OTgwOWd3UFJSLU45Xzl6MUczVXJ5alVZdlVPVlROLWotS19aenR0V2FFSTlXVHZmRVhHMXlnSnE3TTlpOW9KbExNRmxFVVhvUUV5Mi1JLVN5aXFkdDVvazdpMUtTX0I1M3c3cFBLRHd5M3RkXzNnbW8xbzJxcnNId2Y0QjQ?oc=5",
-      "ts": "2026-08-15T08:20:20+00:00"
     }
   ]
 }
