@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:55:30.932063+00:00",
+  "updated_at": "2026-09-20T02:30:05.491171+00:00",
   "stories": [
     {
       "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
@@ -166,6 +166,20 @@
       "why": "Why this label: established Israeli outlet, player interest and possible deal shape reported; still no official talks or agreement.",
       "url": "https://sports.walla.co.il/item/3866684",
       "ts": "2026-09-09T00:00:00+00:00"
+    },
+    {
+      "id": "formerrangerscaptaintavernierjoinsmaccabitelavivtribalfootball",
+      "kind": "transfer",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "TribalFootball",
+      "translated": false,
+      "time": "Sep 7",
+      "title": "Former Rangers captain Tavernier joins Maccabi Tel Aviv - TribalFootball",
+      "body": "Former Rangers captain Tavernier joins Maccabi Tel Aviv &nbsp;&nbsp; TribalFootball",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTlpNy04X3lwUGNNMG12WVR1UmtYbkphaVdMdVhhamg3RWdFb05ERVJtcTBTMlZBQ05fczQzSmdGSGpDdU5BUmhoQUdfNFVqR2QtMVBuUHRkUlVkZzVkcGNoX2Jyc202SmRuWGU1cEVKdHg3OUl0SE5HUDFFcENwSXJCdG1tQll5MXl2YkZ5RFhnSU1mVElzZzVINFNwVERpMVQ4UF9YLTdxZFZhczllTC1mRnNTVTRRY3o0alNnLWFYN20yUHhESC0xMA?oc=5",
+      "ts": "2026-09-07T07:00:00+00:00"
     },
     {
       "id": "jamestaverniersignsaoneyeardeal",
@@ -683,20 +697,6 @@
       "time": "Aug 14",
       "title": "FC Lugano 2-1 Maccabi Tel-Aviv (Aug 20, 2026) Final Score - ESPN",
       "body": "FC Lugano 2-1 Maccabi Tel-Aviv (Aug 20, 2026) Final Score &nbsp;&nbsp; ESPN",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2llZzYydXpVSGxJQnpjVTRFWXdxWFAwTGhHUUcxaU1zclZ0VjdUWDhTNVNIbmI0Z29JSTB1R0Q5VnVULS1xZEVrRUFxc3hSQk04bW5rMFRUamR6N3hOT3hhQVFtY3FPZDZHZWJ3dmtjaTA0cnJsQlJ0a2VoMF9nSkdKbWpfZw?oc=5",
-      "ts": "2026-08-14T03:54:46+00:00"
-    },
-    {
-      "id": "fclugano21maccabitelavivaug202026finalscoreespncom",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "espn.com",
-      "translated": false,
-      "time": "Aug 14",
-      "title": "FC Lugano 2-1 Maccabi Tel-Aviv (Aug 20, 2026) Final Score - espn.com",
-      "body": "FC Lugano 2-1 Maccabi Tel-Aviv (Aug 20, 2026) Final Score &nbsp;&nbsp; espn.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2llZzYydXpVSGxJQnpjVTRFWXdxWFAwTGhHUUcxaU1zclZ0VjdUWDhTNVNIbmI0Z29JSTB1R0Q5VnVULS1xZEVrRUFxc3hSQk04bW5rMFRUamR6N3hOT3hhQVFtY3FPZDZHZWJ3dmtjaTA0cnJsQlJ0a2VoMF9nSkdKbWpfZw?oc=5",
       "ts": "2026-08-14T03:54:46+00:00"
