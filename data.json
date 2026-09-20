@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:54:56.666972+00:00",
+  "updated_at": "2026-09-20T00:38:04.147028+00:00",
   "stories": [
     {
       "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
@@ -562,6 +562,20 @@
       "ts": "2026-08-27T02:51:38+00:00"
     },
     {
+      "id": "maccabitelavivvshapoelbeershevafclivescoreresultstatsfootballcom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Football.com",
+      "translated": false,
+      "time": "Aug 26",
+      "title": "Maccabi Tel Aviv vs Hapoel Beer Sheva FC live score, result & stats - Football.com",
+      "body": "Maccabi Tel Aviv vs Hapoel Beer Sheva FC live score, result & stats &nbsp;&nbsp; Football.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOEFpeHgxbTBCZkJ0WXctSzdDaG9Ed1VZTnQ4NUg5R01DNjQ0WTRFaGR2U3VVU3puX2l1LUx3Tm5oYWF2cXJBZnpWWko3WGtmbGV5VXhpbDhEcXF0OTNLS2tzalBQaURKUkJlZk1iTHBTWUNiRUJDMTNRRTh4dGJxbDhoendiWm55cFZiMW9tQUFlSVNKRXhUNm5kX2I3ZHk1ZmplRzJhVkR2UQ?oc=5",
+      "ts": "2026-08-26T07:56:48+00:00"
+    },
+    {
       "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamejpostcom",
       "kind": "match",
       "level": "early",
@@ -686,20 +700,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2llZzYydXpVSGxJQnpjVTRFWXdxWFAwTGhHUUcxaU1zclZ0VjdUWDhTNVNIbmI0Z29JSTB1R0Q5VnVULS1xZEVrRUFxc3hSQk04bW5rMFRUamR6N3hOT3hhQVFtY3FPZDZHZWJ3dmtjaTA0cnJsQlJ0a2VoMF9nSkdKbWpfZw?oc=5",
       "ts": "2026-08-14T03:54:46+00:00"
-    },
-    {
-      "id": "beitareliminatedfromeuropeonpenaltiesmaccabitelavivwonyetwasknockedoutynetnews",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "Ynetnews",
-      "translated": false,
-      "time": "Aug 13",
-      "title": "Beitar eliminated from Europe on penalties, Maccabi Tel Aviv won - yet was knocked out - Ynetnews",
-      "body": "Beitar eliminated from Europe on penalties, Maccabi Tel Aviv won - yet was knocked out &nbsp;&nbsp; Ynetnews",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR2xiaGh3OW5pdUZxenZTMUExWXR0X1F3QmhTWmhDTkhfNkJoMmhOQzBDbHRhR3dSRmNJZ1l5U1NNc1lqLWx0cnVuUUxzNnNKcXNsWQ?oc=5",
-      "ts": "2026-08-13T07:00:00+00:00"
     }
   ]
 }
