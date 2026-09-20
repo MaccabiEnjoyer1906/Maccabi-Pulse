@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:54:38.544669+00:00",
+  "updated_at": "2026-09-20T11:28:21.091858+00:00",
   "stories": [
     {
       "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
@@ -177,6 +177,20 @@
       "time": "Sep 7",
       "title": "Former Rangers captain Tavernier joins Maccabi Tel Aviv - Tribal Football",
       "body": "Former Rangers captain Tavernier joins Maccabi Tel Aviv &nbsp;&nbsp; Tribal Football",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTlpNy04X3lwUGNNMG12WVR1UmtYbkphaVdMdVhhamg3RWdFb05ERVJtcTBTMlZBQ05fczQzSmdGSGpDdU5BUmhoQUdfNFVqR2QtMVBuUHRkUlVkZzVkcGNoX2Jyc202SmRuWGU1cEVKdHg3OUl0SE5HUDFFcENwSXJCdG1tQll5MXl2YkZ5RFhnSU1mVElzZzVINFNwVERpMVQ4UF9YLTdxZFZhczllTC1mRnNTVTRRY3o0alNnLWFYN20yUHhESC0xMA?oc=5",
+      "ts": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "id": "formerrangerscaptaintavernierjoinsmaccabitelavivtribalfootballcom",
+      "kind": "transfer",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "tribalfootball.com",
+      "translated": false,
+      "time": "Sep 7",
+      "title": "Former Rangers captain Tavernier joins Maccabi Tel Aviv - tribalfootball.com",
+      "body": "Former Rangers captain Tavernier joins Maccabi Tel Aviv &nbsp;&nbsp; tribalfootball.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTlpNy04X3lwUGNNMG12WVR1UmtYbkphaVdMdVhhamg3RWdFb05ERVJtcTBTMlZBQ05fczQzSmdGSGpDdU5BUmhoQUdfNFVqR2QtMVBuUHRkUlVkZzVkcGNoX2Jyc202SmRuWGU1cEVKdHg3OUl0SE5HUDFFcENwSXJCdG1tQll5MXl2YkZ5RFhnSU1mVElzZzVINFNwVERpMVQ4UF9YLTdxZFZhczllTC1mRnNTVTRRY3o0alNnLWFYN20yUHhESC0xMA?oc=5",
       "ts": "2026-09-07T07:00:00+00:00"
@@ -686,20 +700,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkY3OTgwOWd3UFJSLU45Xzl6MUczVXJ5alVZdlVPVlROLWotS19aenR0V2FFSTlXVHZmRVhHMXlnSnE3TTlpOW9KbExNRmxFVVhvUUV5Mi1JLVN5aXFkdDVvazdpMUtTX0I1M3c3cFBLRHd5M3RkXzNnbW8xbzJxcnNId2Y0QjQ?oc=5",
       "ts": "2026-08-15T08:20:20+00:00"
-    },
-    {
-      "id": "fclugano21maccabitelavivaug202026finalscoreespn",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "ESPN",
-      "translated": false,
-      "time": "Aug 14",
-      "title": "FC Lugano 2-1 Maccabi Tel-Aviv (Aug 20, 2026) Final Score - ESPN",
-      "body": "FC Lugano 2-1 Maccabi Tel-Aviv (Aug 20, 2026) Final Score &nbsp;&nbsp; ESPN",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2llZzYydXpVSGxJQnpjVTRFWXdxWFAwTGhHUUcxaU1zclZ0VjdUWDhTNVNIbmI0Z29JSTB1R0Q5VnVULS1xZEVrRUFxc3hSQk04bW5rMFRUamR6N3hOT3hhQVFtY3FPZDZHZWJ3dmtjaTA0cnJsQlJ0a2VoMF9nSkdKbWpfZw?oc=5",
-      "ts": "2026-08-14T03:54:46+00:00"
     }
   ]
 }
