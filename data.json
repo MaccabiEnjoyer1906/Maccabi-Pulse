@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-21T20:29:10.166302+00:00",
+  "updated_at": "2026-09-21T20:54:32.095738+00:00",
   "stories": [
+    {
+      "id": "maccabiholonfcvsmaccabitelavivwfclivescoreresultstatsfootballcom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "football.com",
+      "translated": false,
+      "time": "Sep 19",
+      "title": "Maccabi Holon FC vs Maccabi Tel Aviv WFC live score, result & stats - football.com",
+      "body": "Maccabi Holon FC vs Maccabi Tel Aviv WFC live score, result & stats &nbsp;&nbsp; football.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGpOZnFKaFhETGlUblRGMThJeDU2Q1dzTXJxcUJTNDBqYlhMZmNEcTBFNTVKYTVVQUlST0hycmpfUUJfck5aS0Q4XzRweG1ONWVFTFFtZU9OeDJpRDczZDVPczNOSUJnMDVnSndJSF8zRmVrR0hrS2VhSUNMVGlaWk15cFRmdGhwRVN5MVBjV2d5RFlkVUZ4SFRYSjEyaXBCUGVyRnA1NA?oc=5",
+      "ts": "2026-09-19T09:50:18+00:00"
+    },
     {
       "id": "maccabitelavivhapoeltelaviv10183flashscorecom",
       "kind": "match",
@@ -687,20 +701,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRRFUwV1RFeHQ1b013TlRXZ21fLWJvelJndVpjV3NYNnNweTQ0Z2xSUHJWMmRTMmpzNkxMOEgwRHdvcExPeS1yeUZZY2hic2VTRjc2WnEyajhPbWJYNUphTUdkeUR1QQ?oc=5",
       "ts": "2026-08-20T07:00:00+00:00"
-    },
-    {
-      "id": "anumbersgamethe15thtimeintheplayoffsmaccabitelavivfootballclubmaccabitlvcoil",
-      "kind": "official",
-      "level": "official",
-      "label": "Official",
-      "source": "maccabi-tlv.co.il",
-      "translated": false,
-      "time": "Aug 19",
-      "title": "A numbers game: The 15th time in the Play-Offs - Maccabi Tel Aviv Football Club - maccabi-tlv.co.il",
-      "body": "A numbers game: The 15th time in the Play-Offs - Maccabi Tel Aviv Football Club &nbsp;&nbsp; maccabi-tlv.co.il",
-      "why": "Why this label: Club announcement.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjhvWFI3UVFHS2p3ZTNNM1JPSExvVnhZc0pBc29PVVF2RkRXSFp4aktlS2dLdTRZamptc0V4Y2piMWJFTEtoaWEzRGhhdElVUy1iSTVwVkFWVld6LS1tajdSN25nQ0NvQkhreGZxRjFSYkZESWwzNFZicDhyenBrUXp1NUN2MEFMU0lteEpycU4?oc=5",
-      "ts": "2026-08-19T07:10:33+00:00"
     }
   ]
 }
