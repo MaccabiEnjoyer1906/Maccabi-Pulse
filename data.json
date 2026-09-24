@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:31:43.473511+00:00",
+  "updated_at": "2026-09-24T07:56:37.298166+00:00",
   "stories": [
     {
       "id": "maccabiholonfcvsmaccabitelavivwfclivescoreresultstatsfootballcom",
@@ -351,6 +351,20 @@
       "ts": "2026-09-01T07:00:00+00:00"
     },
     {
+      "id": "thankyourevivomaccabitelavivfootballclubmaccabitlvcoil",
+      "kind": "official",
+      "level": "official",
+      "label": "Official",
+      "source": "maccabi-tlv.co.il",
+      "translated": false,
+      "time": "Sep 1",
+      "title": "Thank you, Revivo - Maccabi Tel Aviv Football Club - maccabi-tlv.co.il",
+      "body": "Thank you, Revivo - Maccabi Tel Aviv Football Club &nbsp;&nbsp; maccabi-tlv.co.il",
+      "why": "Why this label: Club announcement.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qQ3kyUWgyNTBiQ0lvNUZ1d25ONkY3MFlZM0g0cFV5ZTdKY28wSmtmc3F6YklobUhaNkhxNXI0cXpIMlQyTHU4UmM2Y3Bha2w3cXdTMnpoVV90Vk84NmF2R1Jlbll1MGVJTmc?oc=5",
+      "ts": "2026-09-01T07:00:00+00:00"
+    },
+    {
       "id": "maccabibeathaifa31maccabitelavivfootballclubmaccabitlvcoil",
       "kind": "official",
       "level": "official",
@@ -686,20 +700,6 @@
       "body": "Lugano 2-1 Maccabi Tel Aviv: Grgić’s penalty settles playoff tie &nbsp;&nbsp; sofascore.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNldwaW8wN1dZVmhoU0xTd2dfb0l2NHJteENHOEtXMDRMMkFwUXNmWHhLOG1ZRjUybkUwYm9ZX0FQeDFRaVRGOEhJUzJmZnFOd0ZlT1NqR0JsLUNrRmViLW5HTE5ORWhsd3dobmhhQURYTEI0WUhWc2dRVk0xVlhUYzhrR0w1VGRsaVUyV0dnMjIyZGVuMUtibQ?oc=5",
-      "ts": "2026-08-20T07:00:00+00:00"
-    },
-    {
-      "id": "luganovsmaccabitelavivuefaconferenceleaguestatsheadtoheadbbc",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "BBC",
-      "translated": false,
-      "time": "Aug 20",
-      "title": "Lugano vs Maccabi Tel Aviv: UEFA Conference League stats & head-to-head - BBC",
-      "body": "Lugano vs Maccabi Tel Aviv: UEFA Conference League stats & head-to-head &nbsp;&nbsp; BBC",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRRFUwV1RFeHQ1b013TlRXZ21fLWJvelJndVpjV3NYNnNweTQ0Z2xSUHJWMmRTMmpzNkxMOEgwRHdvcExPeS1yeUZZY2hic2VTRjc2WnEyajhPbWJYNUphTUdkeUR1QQ?oc=5",
       "ts": "2026-08-20T07:00:00+00:00"
     }
   ]
