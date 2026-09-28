@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-28T19:57:26.948321+00:00",
+  "updated_at": "2026-09-28T20:31:36.532009+00:00",
   "stories": [
+    {
+      "id": "zluhansk13maccabitelaviv9nov2023finalscoreafricaespncom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "africa.espn.com",
+      "translated": false,
+      "time": "Sep 28",
+      "title": "Z Luhansk 1-3 Maccabi Tel-Aviv (9 Nov, 2023) Final Score - africa.espn.com",
+      "body": "Z Luhansk 1-3 Maccabi Tel-Aviv (9 Nov, 2023) Final Score &nbsp;&nbsp; africa.espn.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RTkExbkdZb3hjRThhejVzcHNlcXBVS2JUZ21IdWxZb0M2aGZ5LUc5QnIzUDd1bVpnMnlEeUVBUUN6dE5EM096d2JYdnFkVGs3YmluRjJONXQ3Z1RIaTdvdXIyaFZKYmdidU0yMEtad2cyM3A5SVhyaw?oc=5",
+      "ts": "2026-09-28T08:22:28+00:00"
+    },
     {
       "id": "zluhansk13maccabitelaviv9nov2023finalscoreespn",
       "kind": "match",
@@ -26,8 +40,8 @@
       "title": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score - africa.espn.com",
       "body": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score &nbsp;&nbsp; africa.espn.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DeHJ2MGc2cWVaQUtNT1FaTS1xcjkzNi1NdWF4OUhTU3NubDhVR0lkbkRQMXN2S1R2d1hKckVtejlLZ1lTWThvY0p1YTRZS19Fd3liMGlhc2hsZm9mcW8zTV9ZUFE1cl91X2syWHVJbGRxc0dWb0E?oc=5",
-      "ts": "2026-09-27T15:49:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNzBoQUlFRHBmdjdJWFc0djFJOEg4dlBfT0RiNjNPMDFYM2g0SWZoc3dfZ25HVFZZRkNmb2xBWVJ4Ym5EVFF0WUtvTkRzZF81dFZLSWg5b2NnV3AxbERtRlNSdkIwSWNQbnVlemlOVld1WlRDaWQwSA?oc=5",
+      "ts": "2026-09-27T15:30:07+00:00"
     },
     {
       "id": "hjkhelsinki05maccabitelaviv21oct2021finalscoreespn",
@@ -687,20 +701,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TblYyZmEtelF2Y1JnTG1HSDdTeUVGNHdZaXh6b1FNYVR4UDhMTUpDenk0WExNZTFjVVVmVEpKdGNVeXpzWGxyT0JTbUZYUDFvaG1tMV94QTN3c2U4LXB0ZnR5d083UQ?oc=5",
       "ts": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "id": "maccabitelavivvsfcluganopredictionbookingcode27august202622bet",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "22bet",
-      "translated": false,
-      "time": "Aug 27",
-      "title": "Maccabi Tel Aviv vs FC Lugano Prediction & Booking Code — 27 August 2026 - 22bet",
-      "body": "Maccabi Tel Aviv vs FC Lugano Prediction & Booking Code — 27 August 2026 &nbsp;&nbsp; 22bet",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU29ZUFFRZkxVY3lOMklaTG4tSGtCTVJ2bFZfd290bDU2a2JsaWdRWjA5V0kzUmIwNVI5R0tsNmcwRkxtQ1BVUWc0aWlQdXA0NFl3U3N5RVNoYVh0TFZYM09adVdTZjVJSUE5Vk5WUDMzME1tYWg4ZHdYXzNjNWZyM0VVVDFlY3ZYNURQNHdoSjVxWkxubHEycFZDclZVX2hEVnc?oc=5",
-      "ts": "2026-08-27T02:51:38+00:00"
     }
   ]
 }
