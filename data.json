@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-28T10:57:52.186517+00:00",
+  "updated_at": "2026-09-28T11:34:26.263747+00:00",
   "stories": [
+    {
+      "id": "hjkhelsinki05maccabitelaviv21oct2021finalscoreafricaespncom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "africa.espn.com",
+      "translated": false,
+      "time": "Sep 27",
+      "title": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score - africa.espn.com",
+      "body": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score &nbsp;&nbsp; africa.espn.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DeHJ2MGc2cWVaQUtNT1FaTS1xcjkzNi1NdWF4OUhTU3NubDhVR0lkbkRQMXN2S1R2d1hKckVtejlLZ1lTWThvY0p1YTRZS19Fd3liMGlhc2hsZm9mcW8zTV9ZUFE1cl91X2syWHVJbGRxc0dWb0E?oc=5",
+      "ts": "2026-09-27T15:49:34+00:00"
+    },
     {
       "id": "hjkhelsinki05maccabitelaviv21oct2021finalscoreespn",
       "kind": "match",
@@ -687,20 +701,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOEFpeHgxbTBCZkJ0WXctSzdDaG9Ed1VZTnQ4NUg5R01DNjQ0WTRFaGR2U3VVU3puX2l1LUx3Tm5oYWF2cXJBZnpWWko3WGtmbGV5VXhpbDhEcXF0OTNLS2tzalBQaURKUkJlZk1iTHBTWUNiRUJDMTNRRTh4dGJxbDhoendiWm55cFZiMW9tQUFlSVNKRXhUNm5kX2I3ZHk1ZmplRzJhVkR2UQ?oc=5",
       "ts": "2026-08-26T07:56:48+00:00"
-    },
-    {
-      "id": "exukpolicechiefinvestigatedforgrossmisconductaftermaccabitelavivgamejpostcom",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "jpost.com",
-      "translated": false,
-      "time": "Aug 26",
-      "title": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game - jpost.com",
-      "body": "Ex-UK police chief investigated for gross misconduct after Maccabi Tel Aviv game &nbsp;&nbsp; jpost.com",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT3dIT3RCN182Um15XzdJdUsteEdCb1M4ZzEwMmNYZTRNOGJ0OTBfM0M5dy1mdHFjU0FMQmhkZEFuc25XRGx2WmFiNmNvZERYSklhNHJIejd6RE1HYVZLX05jNl9SNXVvMXc?oc=5",
-      "ts": "2026-08-26T07:00:00+00:00"
     }
   ]
 }
