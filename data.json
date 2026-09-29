@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:58:38.974197+00:00",
+  "updated_at": "2026-09-29T12:40:30.859653+00:00",
   "stories": [
     {
       "id": "zluhansk13maccabitelaviv9nov2023finalscoreafricaespncom",
@@ -280,6 +280,20 @@
       "ts": "2026-09-07T07:00:00+00:00"
     },
     {
+      "id": "jamestaverniersealsmaccabitelavivmoveasrangersfacetacticalchallengereadrangers",
+      "kind": "news",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Read Rangers",
+      "translated": false,
+      "time": "Sep 7",
+      "title": "James Tavernier seals Maccabi Tel Aviv move as Rangers face tactical challenge - Read Rangers",
+      "body": "James Tavernier seals Maccabi Tel Aviv move as Rangers face tactical challenge &nbsp;&nbsp; Read Rangers",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjFCcEg1SFdqcS1VdDFxRXU4WkVXa3VXWTBwNXY5dGJUQ05wRVJwcDR3Qm9nUllmVHBlOERqejZId1BzY2xtcTlQMTdma2JNQ25aOXhTZGhINjlEQ3NDYy16cmpoRDY1aHlJM3p2ZmNYZEk5MFZXd1ktNjQ4cXVOTjFPWkNIbUNMSlQ3ZlRPejROcWwwOGtnbkNtSW1EbUt0R3RSU1dRczJFeTJGcnc5NC0wLU0?oc=5",
+      "ts": "2026-09-07T07:00:00+00:00"
+    },
+    {
       "id": "jamestaverniersignsaoneyeardeal",
       "kind": "official",
       "level": "official",
@@ -508,16 +522,17 @@
     {
       "id": "jamestavernierclosesinonmaccabitelavivtransferafterrangersexittherangersreview",
       "kind": "transfer",
-      "level": "early",
-      "label": "Early rumor",
+      "level": "strong",
+      "label": "Romano report",
       "source": "The Rangers Review",
       "translated": false,
       "time": "Aug 31",
       "title": "James Tavernier closes in on Maccabi Tel Aviv transfer after Rangers exit - The Rangers Review",
       "body": "James Tavernier closes in on Maccabi Tel Aviv transfer after Rangers exit &nbsp;&nbsp; The Rangers Review",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "why": "Why this label: Linked to Fabrizio Romanoâs reporting; credible, but not confirmed by the club.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
-      "ts": "2026-08-31T07:00:00+00:00"
+      "ts": "2026-08-31T07:00:00+00:00",
+      "romano": true
     },
     {
       "id": "jamestavernierclosetomaccabitelavivtransferafterrangersexitrangersreviewtherangersreview",
@@ -685,20 +700,6 @@
       "body": "Maccabi Tel Aviv vs Lugano Predictions, Picks & Odds – 27/08/2026 &nbsp;&nbsp; toffeeweb.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkgzWlB6RlA2cDk0b0dHSVh0c1RmZ09OVXk2ZC1yeHQ3MjBFQ2M4VW80TzF0MXpLWHJpLVRhelh5eWZEUVVjd25nTWdPdFkwanRzYVpCU01FMUhNQzV2SmN2MTJ2R1RPd2wzZEdZbXM0MkZsemY5dXN1bE92V3Y1NnUtM0ZjUi04Yk9vMHJPdC1SZ2lVLVE?oc=5",
-      "ts": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "id": "maccabitelavivvsluganouefaconferenceleaguestatsheadtoheadbbc",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "BBC",
-      "translated": false,
-      "time": "Aug 27",
-      "title": "Maccabi Tel Aviv vs Lugano: UEFA Conference League stats & head-to-head - BBC",
-      "body": "Maccabi Tel Aviv vs Lugano: UEFA Conference League stats & head-to-head &nbsp;&nbsp; BBC",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TblYyZmEtelF2Y1JnTG1HSDdTeUVGNHdZaXh6b1FNYVR4UDhMTUpDenk0WExNZTFjVVVmVEpKdGNVeXpzWGxyT0JTbUZYUDFvaG1tMV94QTN3c2U4LXB0ZnR5d083UQ?oc=5",
       "ts": "2026-08-27T07:00:00+00:00"
     }
   ]
