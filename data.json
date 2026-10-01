@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T17:59:35.014828+00:00",
+  "updated_at": "2026-10-01T18:39:24.625268+00:00",
   "stories": [
     {
       "id": "zluhansk13maccabitelaviv9nov2023finalscoreafricaespncom",
@@ -30,20 +30,6 @@
       "ts": "2026-09-28T08:22:28+00:00"
     },
     {
-      "id": "hjkhelsinki05maccabitelaviv21oct2021finalscoreafricaespncom",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "africa.espn.com",
-      "translated": false,
-      "time": "Sep 27",
-      "title": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score - africa.espn.com",
-      "body": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score &nbsp;&nbsp; africa.espn.com",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNzBoQUlFRHBmdjdJWFc0djFJOEg4dlBfT0RiNjNPMDFYM2g0SWZoc3dfZ25HVFZZRkNmb2xBWVJ4Ym5EVFF0WUtvTkRzZF81dFZLSWg5b2NnV3AxbERtRlNSdkIwSWNQbnVlemlOVld1WlRDaWQwSA?oc=5",
-      "ts": "2026-09-27T15:30:07+00:00"
-    },
-    {
       "id": "hjkhelsinki05maccabitelaviv21oct2021finalscoreespn",
       "kind": "match",
       "level": "early",
@@ -53,6 +39,20 @@
       "time": "Sep 27",
       "title": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score - ESPN",
       "body": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score &nbsp;&nbsp; ESPN",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DeHJ2MGc2cWVaQUtNT1FaTS1xcjkzNi1NdWF4OUhTU3NubDhVR0lkbkRQMXN2S1R2d1hKckVtejlLZ1lTWThvY0p1YTRZS19Fd3liMGlhc2hsZm9mcW8zTV9ZUFE1cl91X2syWHVJbGRxc0dWb0E?oc=5",
+      "ts": "2026-09-27T15:49:34+00:00"
+    },
+    {
+      "id": "hjkhelsinki05maccabitelaviv21oct2021finalscoreafricaespncom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "africa.espn.com",
+      "translated": false,
+      "time": "Sep 27",
+      "title": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score - africa.espn.com",
+      "body": "HJK Helsinki 0-5 Maccabi Tel-Aviv (21 Oct, 2021) Final Score &nbsp;&nbsp; africa.espn.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNzBoQUlFRHBmdjdJWFc0djFJOEg4dlBfT0RiNjNPMDFYM2g0SWZoc3dfZ25HVFZZRkNmb2xBWVJ4Ym5EVFF0WUtvTkRzZF81dFZLSWg5b2NnV3AxbERtRlNSdkIwSWNQbnVlemlOVld1WlRDaWQwSA?oc=5",
       "ts": "2026-09-27T15:30:07+00:00"
