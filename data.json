@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T18:41:02.375512+00:00",
+  "updated_at": "2026-10-05T21:34:15.047971+00:00",
   "stories": [
     {
       "id": "averagepossessionmaccabitelavivstatsforligathaal20262027fotmob",
@@ -11,6 +11,20 @@
       "time": "Oct 4",
       "title": "Average possession - Maccabi Tel Aviv stats for Ligat ha'Al 2026/2027 - FotMob",
       "body": "Average possession - Maccabi Tel Aviv stats for Ligat ha'Al 2026/2027 &nbsp;&nbsp; FotMob",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHJVbDV4aVBCVnhycEJ4dnUtck03TjBYS3BjVkZnRU1DU0pZc3hCUGk0Rld3Qm9JcXlkRUZhWTlWM1VjUkpiYXNJQ1lWM3VTcU1CTmRBbDU4ZkRQT2YzZnVWcGZOQ2NmVVIxUHJKZUx3SWJQaE1SWXowS05QMTU2ZmpWQ212d1VEUHVwZ2o4RDlNeDU0SEZPS0JRekUtLVY0aUJyYWloYlV5RjJyZWotbjFWNA?oc=5",
+      "ts": "2026-10-04T05:42:48+00:00"
+    },
+    {
+      "id": "averagepossessionmaccabitelavivstatsforligathaal20262027fotmobcom",
+      "kind": "europe",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "fotmob.com",
+      "translated": false,
+      "time": "Oct 4",
+      "title": "Average possession - Maccabi Tel Aviv stats for Ligat ha'Al 2026/2027 - fotmob.com",
+      "body": "Average possession - Maccabi Tel Aviv stats for Ligat ha'Al 2026/2027 &nbsp;&nbsp; fotmob.com",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHJVbDV4aVBCVnhycEJ4dnUtck03TjBYS3BjVkZnRU1DU0pZc3hCUGk0Rld3Qm9JcXlkRUZhWTlWM1VjUkpiYXNJQ1lWM3VTcU1CTmRBbDU4ZkRQT2YzZnVWcGZOQ2NmVVIxUHJKZUx3SWJQaE1SWXowS05QMTU2ZmpWQ212d1VEUHVwZ2o4RDlNeDU0SEZPS0JRekUtLVY0aUJyYWloYlV5RjJyZWotbjFWNA?oc=5",
       "ts": "2026-10-04T05:42:48+00:00"
@@ -28,6 +42,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWIwaFVReHAwNEVHMjVmREdySC1rdVFOcTVpdU5SWVpTdkROTUZUSkhHRlZKOEdPUUdqdXVlTmZIckV2NXl5TjJXNzdscFlxVnV6WHBYb0t4Q2JBanFYakR0MURUS3BZMG5qQnRsOHZfQ1gtbFExWktCMDhuRXFqbTUtMy01UEJDaHJ2VjZsRUVRSGpfUmJ2dTJYMkJacUtWY00xRzNiQmVxeUpIMWxqNlhLZjVEVTU4NTk0?oc=5",
       "ts": "2026-10-02T07:41:03+00:00"
+    },
+    {
+      "id": "cornersmaccabitelavivstatsforligathaal20262027fotmobcom",
+      "kind": "europe",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "fotmob.com",
+      "translated": false,
+      "time": "Oct 1",
+      "title": "Corners - Maccabi Tel Aviv stats for Ligat ha'Al 2026/2027 - fotmob.com",
+      "body": "Corners - Maccabi Tel Aviv stats for Ligat ha'Al 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNGZSZEMwcDBCVEptaE9CM0lKOElhLURRSlg3ZklXSDVad1lYZ3RWY3o0LW0tYll0VWNqOVVnRzFHT1hFb2dfZVQwUVZpdnNjYzY4UUs1UGtNNVBMREYxVEFNSXJJeFNSd1czNnlJNnZhSjlUUndPMEpUYlo3N0RsQU81eThxbXUwa2xiQ1hrQ2U5Q0pTeGlDUnpDako5UTR0TEVjNDZROVJlQ2VtckRRcW5TQ3pQMnR0bXlsd3VHRzJKLXFidERDeE5rVGhFVU5NMFlsRQ?oc=5",
+      "ts": "2026-10-01T19:49:32+00:00"
     },
     {
       "id": "zluhansk13maccabitelaviv9nov2023finalscoreafricaespncom",
@@ -672,34 +700,6 @@
       "body": "Maccabi Tel Aviv vs FC Lugano live score, H2H and lineups &nbsp;&nbsp; Sofascore",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSTFYV0NzcmJ4ZmtLNjBjczlDbzhTM0FFU2FWOXlUUk9FTkxxeEtMQWhueWpKUGVBenpqQ3l4Tk9jV2ktVWRJclBDZmtfcHpvaFJFbGhMN1RKeGloeGpqZ2I2eFVuTVZ1b1ZUcFFTUGM2eldVQXNqWGExbGRBWFU?oc=5",
-      "ts": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "id": "maccabitelavivvsfcluganolivescoreh2handlineupssofascorecom",
-      "kind": "squad",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "sofascore.com",
-      "translated": false,
-      "time": "Aug 27",
-      "title": "Maccabi Tel Aviv vs FC Lugano live score, H2H and lineups - sofascore.com",
-      "body": "Maccabi Tel Aviv vs FC Lugano live score, H2H and lineups &nbsp;&nbsp; sofascore.com",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSTFYV0NzcmJ4ZmtLNjBjczlDbzhTM0FFU2FWOXlUUk9FTkxxeEtMQWhueWpKUGVBenpqQ3l4Tk9jV2ktVWRJclBDZmtfcHpvaFJFbGhMN1RKeGloeGpqZ2I2eFVuTVZ1b1ZUcFFTUGM2eldVQXNqWGExbGRBWFU?oc=5",
-      "ts": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "id": "maccabitelavivvsluganolivescorepredictedlineupsandh2hstatsfotmob",
-      "kind": "squad",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "FotMob",
-      "translated": false,
-      "time": "Aug 27",
-      "title": "Maccabi Tel Aviv vs Lugano - live score, predicted lineups and H2H stats - FotMob",
-      "body": "Maccabi Tel Aviv vs Lugano - live score, predicted lineups and H2H stats &nbsp;&nbsp; FotMob",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yczk5MzczRmF2RjdnX3JvbDk2cEN2NmY3b1lmdHhKRVhsR3h3UVpaU09PYWF6TXNZQUJvTXlGMFJlV3Z4WXYtWHU4Z3VoMmlnaE1LOWJjdW1hZVBwREtoVTFROFYzRUpNbUNjQVU5Tl9Jdw?oc=5",
       "ts": "2026-08-27T07:00:00+00:00"
     }
   ]
