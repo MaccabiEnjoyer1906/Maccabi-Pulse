@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T22:58:45.850508+00:00",
+  "updated_at": "2026-10-11T23:32:34.486139+00:00",
   "stories": [
     {
       "id": "defensivecontributionsper90maccabitelavivstatsforligathaal20262027fotmob",
@@ -252,6 +252,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSllhNndaMUxDa3NqdzBQdnlSRzVaRzV6ZUlqQmIxcEZaVjVsNEtNenYtYXc3QjViSW1tdEdEX1JHVnpncnYyVEROSDgtaGpSdTZGbU8wWXhtS2JjZkR6VlFrR24wRGxxM2lFZGhaU041UjgxS3RaMWE5dUI1X0pKQ0NjSk1LNENuTXgzT1c1NkpUSEFnbm5CcUJzZw?oc=5",
       "ts": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "id": "confirmedtransfermaccabitelavivsignsjamestavernieronefootball",
+      "kind": "transfer",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "OneFootball",
+      "translated": false,
+      "time": "Sep 16",
+      "title": "Confirmed Transfer: Maccabi Tel Aviv signs James Tavernier. - OneFootball",
+      "body": "Confirmed Transfer: Maccabi Tel Aviv signs James Tavernier. &nbsp;&nbsp; OneFootball",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzV0FBRGZnWmkzVV90V2w2ZEZRb0RfVFFaVVhvem9nNENQbzVINXM4ZFExNFo0cjR6UElJenlidVBWc09Zb01IaHQ2a3ZTNnpmRWtCb2hRRVk?oc=5",
+      "ts": "2026-09-16T01:21:23+00:00"
     },
     {
       "id": "maccabitelavivemergeasearlyisraelipremierleaguefrontrunnersthejerusalempost",
@@ -687,20 +701,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
       "ts": "2026-08-31T07:00:00+00:00",
       "romano": true
-    },
-    {
-      "id": "jamestavernierclosetomaccabitelavivtransferafterrangersexitrangersreviewtherangersreview",
-      "kind": "transfer",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "The Rangers Review",
-      "translated": false,
-      "time": "Aug 31",
-      "title": "James Tavernier close to Maccabi Tel Aviv transfer after Rangers exit | Rangers Review - The Rangers Review",
-      "body": "James Tavernier close to Maccabi Tel Aviv transfer after Rangers exit | Rangers Review &nbsp;&nbsp; The Rangers Review",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
-      "ts": "2026-08-31T07:00:00+00:00"
     }
   ]
 }
