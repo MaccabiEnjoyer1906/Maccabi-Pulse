@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-13T03:01:51.886254+00:00",
+  "updated_at": "2026-10-13T03:39:13.748087+00:00",
   "stories": [
+    {
+      "id": "fcbarcelonavmaccabitelavivoddsfanduelsportsbook",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "FanDuel Sportsbook",
+      "translated": false,
+      "time": "Oct 13",
+      "title": "FC Barcelona v Maccabi Tel-Aviv Odds - FanDuel Sportsbook",
+      "body": "FC Barcelona v Maccabi Tel-Aviv Odds &nbsp;&nbsp; FanDuel Sportsbook",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1ZINEFhMGlJOTBUYk9ISDZJYjBfc0RDbDVNb2tYRkwzSW5makxSTWNoWDd5UVI4cXJ6LURod0trb1d6NE5iaDJOVHA2cWRacTd4bklsbTRyXzdGYXVFWktDbWtnb3puRTJRUnE3cGN2ZlZEZUttQ3BmNEd4NFZaaXhNVFgxTk4xVnhJR2tIaWhmQWUxLXl6NWRVV0NoSXRp?oc=5",
+      "ts": "2026-10-13T00:59:13+00:00"
+    },
     {
       "id": "topscorermaccabitelavivstatsforligathaal20262027fotmob",
       "kind": "match",
@@ -685,21 +699,6 @@
       "why": "Why this label: Club announcement.",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41cHIySmVzZG5oQ1NnZnBfbUxWbXI4RDNPbG1zeXBhTEhSQUUySHdDbEZsOEY0dzlBUDNULTA3TWwzd2pTY1N3alRJU1RzUWFPT0hlVUhUTTZrZVFFbm9DWEpQYUpmMENKdVVNM1NYUkd5a2M?oc=5",
       "ts": "2026-08-31T07:32:01+00:00"
-    },
-    {
-      "id": "jamestavernierclosesinonmaccabitelavivtransferafterrangersexitrangersreviewcouk",
-      "kind": "transfer",
-      "level": "strong",
-      "label": "Romano report",
-      "source": "rangersreview.co.uk",
-      "translated": false,
-      "time": "Aug 31",
-      "title": "James Tavernier closes in on Maccabi Tel Aviv transfer after Rangers exit - rangersreview.co.uk",
-      "body": "James Tavernier closes in on Maccabi Tel Aviv transfer after Rangers exit &nbsp;&nbsp; rangersreview.co.uk",
-      "why": "Why this label: Linked to Fabrizio Romanoâs reporting; credible, but not confirmed by the club.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUh6cEgteF9mSWxYMWQwRFl0S3R4UHhDcGhtX0w2cnM3TmtlV1lyTlBsU2Vrd2Rod2JTNVljZWYycGlTTTUxYnJhdnV4MW9MdU44VDNmci1sdmtBSWtYVFgxX19kTmJXdmdDYTZFZi14eWtYbjdZWGVvcDV5WkJEczdNOG1ObWdWU1p6WFpWNzRIS0MxYnVudkNFdm5SbndQZVVUNTNjd2JGcTA?oc=5",
-      "ts": "2026-08-31T07:00:00+00:00",
-      "romano": true
     }
   ]
 }
