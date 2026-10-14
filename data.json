@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T10:51:26.653945+00:00",
+  "updated_at": "2026-10-14T11:13:33.333358+00:00",
   "stories": [
     {
       "id": "fcbarcelonavmaccabitelavivoddsfanduelsportsbook",
@@ -55,6 +55,20 @@
       "body": "Maccabi Tel Aviv - Sakhnin 0-0 &nbsp;&nbsp; Soccerway",
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzlUay1IV1pRRWc1d1JmUTRNd3RyT2xLZ05TQ2ZXS2VBQnBhZXNxMGJQbWlOOGRkSzBqZnNRYVFZYkI3djRONE5HQ1V0SXl4UEFwYjYwMmpDT0dJQ2ZtbzBla1V4UTFuVGJjSUVCR1NwTWh2UEtRUGlzdEJqdkJHSA?oc=5",
+      "ts": "2026-10-10T07:00:00+00:00"
+    },
+    {
+      "id": "maccabitelavivvsbneisakhninlivescoreh2handlineupssofascore",
+      "kind": "squad",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Sofascore",
+      "translated": false,
+      "time": "Oct 10",
+      "title": "Maccabi Tel Aviv vs Bnei Sakhnin live score, H2H and lineups - Sofascore",
+      "body": "Maccabi Tel Aviv vs Bnei Sakhnin live score, H2H and lineups &nbsp;&nbsp; Sofascore",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXBHV3ZsYjg0VjA1ZGJsbEE4a0x1YTdDZXo2UDdBVW8xMDBmVWdnSjE1YVk2NDRyVHBjQXhaZEpvNldJUzJJUnZCVERVVGx1MXZTWWlETXF4UUN2TkdELWJFUjhkRVFUM1BPVFF3Q3FKTjZ4c3JDZHYzbEQ4MHZNTmV3cHQ?oc=5",
       "ts": "2026-10-10T07:00:00+00:00"
     },
     {
@@ -685,20 +699,6 @@
       "why": "Why this label: Club announcement.",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qQ3kyUWgyNTBiQ0lvNUZ1d25ONkY3MFlZM0g0cFV5ZTdKY28wSmtmc3F6YklobUhaNkhxNXI0cXpIMlQyTHU4UmM2Y3Bha2w3cXdTMnpoVV90Vk84NmF2R1Jlbll1MGVJTmc?oc=5",
       "ts": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "id": "maccabibeathaifa31maccabitelavivfootballclubmaccabitlvcoil",
-      "kind": "official",
-      "level": "official",
-      "label": "Official",
-      "source": "maccabi-tlv.co.il",
-      "translated": false,
-      "time": "Aug 31",
-      "title": "Maccabi beat Haifa 3-1 - Maccabi Tel Aviv Football Club - maccabi-tlv.co.il",
-      "body": "Maccabi beat Haifa 3-1 - Maccabi Tel Aviv Football Club &nbsp;&nbsp; maccabi-tlv.co.il",
-      "why": "Why this label: Club announcement.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oMGVyZUNxNzNpVm5NMzRWMzlaVEpnMDhwVDhtUVcyVnJmUTlEN2dxb2xMYnU1blFsUFpaU0FUY1ZETnJLOUE3VFNic2ZfZU5JcFRDN0lsbzZzeDNudXNXRy1zUWdEUUNMNU5ONGo2aXFvODZF?oc=5",
-      "ts": "2026-08-31T20:19:08+00:00"
     }
   ]
 }
