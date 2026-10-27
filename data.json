@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-26T20:45:46.914342+00:00",
+  "updated_at": "2026-10-27T00:06:59.647062+00:00",
   "stories": [
+    {
+      "id": "maccabitelavivhapoelhaifa62flashscorecom",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Flashscore.com",
+      "translated": false,
+      "time": "Oct 24",
+      "title": "Maccabi Tel Aviv - Hapoel Haifa 6-2 - Flashscore.com",
+      "body": "Maccabi Tel Aviv - Hapoel Haifa 6-2 &nbsp;&nbsp; Flashscore.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjBmdEJ4aE5aRUQwc2dqaUozU1pQMWQxbkhtZGprdE03d1ZNT0djT25WTVZpOVhfNHZta1c0MnZiUkRoQ2JkbWhEdzRHQlplbFgzRjdQUlMzUVdhTXBxSjlrUzZFWWRtX0VaWkQxZzVhY2oxTXFuQmVHVEJXVHJ6LUpKbEIyX1VoZU94MTRMX1lIT0dX?oc=5",
+      "ts": "2026-10-24T07:00:00+00:00"
+    },
     {
       "id": "skslaviaprahavsmaccabitelavivheadtoheadrecordresultsandstatsallfootball懂球帝",
       "kind": "match",
@@ -587,19 +601,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0Fqc20tbTdMb25Ec29BXzB5X0xXdzFvYjRma3gtZFlHQmltZkpqUS10T18xYnlRczNmcWExSGphWngzNkowdmw0TFFJckVZQUNjc0JVWGlyZVhnaTItdHlMdlJfWFN1RmF5ZUZObHZHOGtjaEdJbEdaZk9xOHNmQVVUczhDU0ZyQVR0V1NmZ0RUMktSZmJfaQ?oc=5",
       "ts": "2026-09-13T03:24:51+00:00"
-    },
-    {
-      "id": "kervinandradeheadstosportrecifeonloan",
-      "kind": "official",
-      "level": "official",
-      "label": "Official",
-      "source": "Maccabi Tel Aviv FC",
-      "time": "Sep 12",
-      "title": "Kervin Andrade heads to Sport Recife on loan",
-      "body": "The Venezuelan midfielder will spend the 2026/27 season with the Brazilian club.",
-      "why": "Why this label: published directly by Maccabi Tel Aviv FC.",
-      "url": "https://www.maccabi-tlv.co.il/en/2026/09/andrade-joins-sport-recife-on-loan/",
-      "ts": "2026-09-12T00:00:00+00:00"
     }
   ]
 }
