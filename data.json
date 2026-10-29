@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T23:38:00.218809+00:00",
+  "updated_at": "2026-10-29T02:55:40.712091+00:00",
   "stories": [
     {
       "id": "maccabitelavivhapoelhaifa62flashscorecom",
@@ -588,33 +588,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TeVV6cllYaTZ1WVRtNzFJVGFxUlNqel9JcFlPWS1jSGQ2bDd1ZldOZVNVLTNROVBmM2Q3a3VpNEU5SU9mN3lPOC0yaXRGYlRxUzZKcVdXNl9uNC1VZFYxQ1IxQkxTQQ?oc=5",
       "ts": "2026-09-16T00:00:00+00:00"
-    },
-    {
-      "id": "oriazojoinsbeitarjerusalemonloan",
-      "kind": "official",
-      "level": "official",
-      "label": "Official",
-      "source": "Maccabi Tel Aviv FC",
-      "time": "Sep 14",
-      "title": "Ori Azo joins Beitar Jerusalem on loan",
-      "body": "The club confirmed the 21-year-old winger will spend the 2026/27 season at Beitar Jerusalem.",
-      "why": "Why this label: published directly by Maccabi Tel Aviv FC.",
-      "url": "https://www.maccabi-tlv.co.il/en/2026/09/azo-joins-beitar-jerusalem-on-loan/",
-      "ts": "2026-09-14T00:00:00+00:00"
-    },
-    {
-      "id": "telavivderbyinpremierleaguemaccabitelavivdefeatshapoeltelaviv41ynetnews",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "Ynetnews",
-      "translated": false,
-      "time": "Sep 14",
-      "title": "Tel Aviv Derby in Premier League: Maccabi Tel Aviv Defeats Hapoel Tel Aviv 4-1 - Ynetnews",
-      "body": "Tel Aviv Derby in Premier League: Maccabi Tel Aviv Defeats Hapoel Tel Aviv 4-1 &nbsp;&nbsp; Ynetnews",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zMmhRbDgtM3BscTZheFpfZWM5MWZmWkI2WEJuWl9ZXzFVLXU0MHkycDI0SmRDYW1LcDdfQW5zOFE3UzR6QWpfSnh3ZUxXclJhZUpqUw?oc=5",
-      "ts": "2026-09-14T00:00:00+00:00"
     }
   ]
 }
