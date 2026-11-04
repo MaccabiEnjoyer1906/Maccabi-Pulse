@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-04T11:37:25.960797+00:00",
+  "updated_at": "2026-11-04T18:02:28.584459+00:00",
   "stories": [
+    {
+      "id": "benledermanjoinswieczystakrakówfrommaccabitelavivfootballcom",
+      "kind": "transfer",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Football.com",
+      "translated": false,
+      "time": "Nov 4",
+      "title": "Ben Lederman Joins Wieczysta Kraków from Maccabi Tel Aviv - Football.com",
+      "body": "Ben Lederman Joins Wieczysta Kraków from Maccabi Tel Aviv &nbsp;&nbsp; Football.com",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hUFB1WmpabjE0cS10U1ZLQTF1VHo3SVBiQ3A1MEJNV0J2Umdhek81VDc4ZDBQQThYR2s3cU43MDVNNExKSjY2dnVDVDRrb1Nh?oc=5",
+      "ts": "2026-11-04T07:15:34+00:00"
+    },
     {
       "id": "watchhapoelramatganvsmaccabitelavivlivestreampredictionstips2novfootballpredictionsnet",
       "kind": "match",
@@ -352,20 +366,6 @@
       "ts": "2026-10-08T18:30:00+00:00"
     },
     {
-      "id": "maccabitelaviv2627fourthkitreleasedfootyheadlines",
-      "kind": "news",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "Footy Headlines",
-      "translated": false,
-      "time": "Oct 7",
-      "title": "Maccabi Tel Aviv 26-27 Fourth Kit Released - Footy Headlines",
-      "body": "Maccabi Tel Aviv 26-27 Fourth Kit Released &nbsp;&nbsp; Footy Headlines",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORENBQWFoRFNlUXR3Uk1WTDhSckpILXZyblo0RkFDWUlvU2VsZkFFaTRfWE0wMnhjYmxwN0VlaVNqdlR2V1QzV0xrQ3FjQnJuYTlLS3NtUV9kZzNzaWdYX0VLc0Y3bkZGSGJ6SzdUeTBZOHRWWW1pRS1YRHo1SkMzVEtnb0FTZXFNLVlTcmdGWG5naXc?oc=5",
-      "ts": "2026-10-07T08:17:00+00:00"
-    },
-    {
       "id": "maccabitelavivbneisachninfcbettingtipbestodds10102026futbol24",
       "kind": "match",
       "level": "early",
@@ -378,6 +378,20 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGhWdzNWQ1FVamR4Yks5cFpmX2FPdGJfRlVMRlpZYzRBWGlfQ0JyeTUwNm1tZWF4Wno3ZHNWMEhWRW04dHpRdnFuVzAwUFhPWndiZktjTXhPMFRCcllDOXFZa2k5TmUzcWhubUdjZFhFMmk2SldJdVpOSnFISXJIWGFIbkh1YXNkTGpUOGZzWVljWVBhWUNQR3BJNXdRSkpaLVFEYQ?oc=5",
       "ts": "2026-10-07T07:05:29+00:00"
+    },
+    {
+      "id": "maccabitelaviv2627fourthkitreleasedfootyheadlines",
+      "kind": "news",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Footy Headlines",
+      "translated": false,
+      "time": "Oct 7",
+      "title": "Maccabi Tel Aviv 26-27 Fourth Kit Released - Footy Headlines",
+      "body": "Maccabi Tel Aviv 26-27 Fourth Kit Released &nbsp;&nbsp; Footy Headlines",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORENBQWFoRFNlUXR3Uk1WTDhSckpILXZyblo0RkFDWUlvU2VsZkFFaTRfWE0wMnhjYmxwN0VlaVNqdlR2V1QzV0xrQ3FjQnJuYTlLS3NtUV9kZzNzaWdYX0VLc0Y3bkZGSGJ6SzdUeTBZOHRWWW1pRS1YRHo1SkMzVEtnb0FTZXFNLVlTcmdGWG5naXc?oc=5",
+      "ts": "2026-10-07T07:00:00+00:00"
     },
     {
       "id": "averagepossessionmaccabitelavivstatsforligathaal20262027fotmob",
