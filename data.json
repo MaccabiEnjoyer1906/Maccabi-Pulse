@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-06T02:32:11.015906+00:00",
+  "updated_at": "2026-11-06T02:51:29.850863+00:00",
   "stories": [
+    {
+      "id": "themaccabitelavivscandalwhenislamicsectarianstookoverspiked",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Spiked",
+      "translated": false,
+      "time": "Nov 5",
+      "title": "The Maccabi Tel Aviv scandal: when Islamic sectarians took over - Spiked",
+      "body": "The Maccabi Tel Aviv scandal: when Islamic sectarians took over &nbsp;&nbsp; Spiked",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVNMT0l0N0UwVk9ldU1PQmxJVUJDMVFzS3E5eXBjcGY5d3FLNjlVbmVJZnpXeVhEWEdPeVlMRHpsSEVHYWVfanNQSllYTTd6N3YyRGp2VVlQQUdva1h0OXBaLXU0dkNqcFhkWVVmT0FnampjNmJMYXNxSUxDVHFuTVRZQVFKYWl5aU9qMmZqaTNuS19lRkNPX0paUWNSbW9BV3FkdHJnWQ?oc=5",
+      "ts": "2026-11-05T23:57:25+00:00"
+    },
     {
       "id": "benledermanjoinswieczystakrakówfrommaccabitelavivfootballcom",
       "kind": "transfer",
