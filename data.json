@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-17T04:48:55.198455+00:00",
+  "updated_at": "2026-11-17T14:35:43.386488+00:00",
   "stories": [
+    {
+      "id": "maccabitelavivvsbczalgiriskaunasmatchplayerstatsandstandings15december2026dailysports",
+      "kind": "match",
+      "level": "early",
+      "label": "Early rumor",
+      "source": "Dailysports",
+      "translated": false,
+      "time": "Nov 17",
+      "title": "Maccabi Tel-Aviv vs BC Zalgiris Kaunas - Match player Stats and Standings (15 December 2026) - Dailysports",
+      "body": "Maccabi Tel-Aviv vs BC Zalgiris Kaunas - Match player Stats and Standings (15 December 2026) &nbsp;&nbsp; Dailysports",
+      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWThpczFWTGlXcEhpRVhja015TW5tckhtQVFEY25mcFhtUUN5OVp1OFotbk5kbVJMVUxDTHBlb2lMQjFRbnNUS3IxU0lNSWtkSjVpUVlReEowV3puNHRyS2FsZjRBUXc2dnV6WW00VE5xQWVYbEFVZlNLeGoxRXhqZGdmSVJGSnlz?oc=5",
+      "ts": "2026-11-17T10:32:51+00:00"
+    },
     {
       "id": "maccabitelaviv8073hapoeltelavivcoolheadsbigstopsandaderbyhandledatthelinesofascore",
       "kind": "match",
@@ -504,20 +518,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHJVbDV4aVBCVnhycEJ4dnUtck03TjBYS3BjVkZnRU1DU0pZc3hCUGk0Rld3Qm9JcXlkRUZhWTlWM1VjUkpiYXNJQ1lWM3VTcU1CTmRBbDU4ZkRQT2YzZnVWcGZOQ2NmVVIxUHJKZUx3SWJQaE1SWXowS05QMTU2ZmpWQ212d1VEUHVwZ2o4RDlNeDU0SEZPS0JRekUtLVY0aUJyYWloYlV5RjJyZWotbjFWNA?oc=5",
       "ts": "2026-10-04T05:42:48+00:00"
-    },
-    {
-      "id": "maccabitelaviv31hapoeljerusalem1002matchreport365scores",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "365Scores",
-      "translated": false,
-      "time": "Oct 3",
-      "title": "Maccabi Tel Aviv 3 - 1 Hapoel Jerusalem (10/02) - Match Report - 365Scores",
-      "body": "Maccabi Tel Aviv 3 - 1 Hapoel Jerusalem (10/02) - Match Report &nbsp;&nbsp; 365Scores",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHlBQzhwa2tuWnJoTVEzUWRiOXJ3MWNyU01Ram43alg4Z3pDZm5QazhqZ3hhUGNHTUhhMXMzWDlBQWlMSlBfN0RBVzZKQndvZDRzc1BGbEpqeVNYRmlaYTVqaFRSc3FZT3d1TmJEcF9KWm5wVFFaaU5fa0JSUHpnajYxYU9hOXpTQWk4eUxXdHBQOElZSGVuYzdSc0lUV1h1YWJwZ2tuSk1Rdw?oc=5",
-      "ts": "2026-10-03T13:09:20+00:00"
     }
   ]
 }
