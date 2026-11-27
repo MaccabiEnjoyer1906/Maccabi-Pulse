@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T04:35:10.290760+00:00",
+  "updated_at": "2026-11-27T05:06:23.829769+00:00",
   "stories": [
     {
       "id": "fcbayerngegenmaccabitelavivgamereportfcbayern",
@@ -490,20 +490,6 @@
       "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY08wcGZodkZHN3JpWE9OazJyYlpWS2JRRVFyb254WEpwOHJVbmxXYlRXV3pxTUoyVi1JQWxDXzMtNW80TVNWR1JGRTFLMjBjM1BvaUNKU05BbS1TNU00dktUSEJDWHkxNmVZU1VZRW9DM1NEOUhrbjRlWFZidVNEMHBDaHJRTnc?oc=5",
       "ts": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "id": "fcbarcelonavmaccabitelavivoddsfanduelsportsbook",
-      "kind": "match",
-      "level": "early",
-      "label": "Early rumor",
-      "source": "FanDuel Sportsbook",
-      "translated": false,
-      "time": "Oct 13",
-      "title": "FC Barcelona v Maccabi Tel-Aviv Odds - FanDuel Sportsbook",
-      "body": "FC Barcelona v Maccabi Tel-Aviv Odds &nbsp;&nbsp; FanDuel Sportsbook",
-      "why": "Why this label: Single-source signal; treat as unconfirmed until corroborated.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1ZINEFhMGlJOTBUYk9ISDZJYjBfc0RDbDVNb2tYRkwzSW5makxSTWNoWDd5UVI4cXJ6LURod0trb1d6NE5iaDJOVHA2cWRacTd4bklsbTRyXzdGYXVFWktDbWtnb3puRTJRUnE3cGN2ZlZEZUttQ3BmNEd4NFZaaXhNVFgxTk4xVnhJR2tIaWhmQWUxLXl6NWRVV0NoSXRp?oc=5",
-      "ts": "2026-10-13T04:42:39+00:00"
     }
   ]
 }
